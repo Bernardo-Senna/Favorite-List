@@ -1,0 +1,38 @@
+body {
+  padding-left: 10px;
+}
+
+img {
+  width: 50px;
+  height: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 20%;
+}
+
+.country-container{
+  display: flex;
+}
+
+.country-list{
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.favorite-list{
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.country{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.flags{
+  margin-top: 5px;
+}
+
